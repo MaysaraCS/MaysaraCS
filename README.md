@@ -1,8 +1,9 @@
-- 👋 hello, my name is Maysara but you can call me Maysara.CS
-- 👀 I’m interested in programming and hacking
-- 🌱 I’m currently studying software engineering degree 
-- 💞️ I’m looking to collaborate on intrenships in a big companies
+- 👋 hello, my name is Maysara
+- 👀 I’m interested in web programming, AI ,ML and software developing 
+- 🌱 I’m currently studying software engineering degree at UTM this is my third year
+- 💞️ currently I’m looking for internships for 2024 summer  
 - 📫 How to reach me /
 - gmail: maysaracs1001@gmail.com
+- gmail: maysara@graduate.utm.my
 - linkedin: https://www.linkedin.com/in/maysara-mohamed-241017244/
 
