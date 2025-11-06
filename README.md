@@ -14,7 +14,9 @@
 📫 Get in Touch
 
 📧 Personal Email: maysaracs1001@gmail.com
+
 🎓 Academic Email: maysara@graduate.utm.my
+
 💼 LinkedIn: linkedin.com/in/maysara-mohamed-241017244
 
 💞️ Let's Connect
